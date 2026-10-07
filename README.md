@@ -7,4 +7,4 @@ Software Engineering student at the University of Bahrain focusing on Java devel
 - **Focus Areas:** Object-Oriented Programming (OOP), Data Structures
 ---
 ### Connect
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **LinkedIn:** [https://www.linkedin.com/in/sara-aloraibi-708666324?utm_source=share_via&utm_content=profile&utm_medium=member_ios]

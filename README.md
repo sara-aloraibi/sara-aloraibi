@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**sara-aloraibi/sara-aloraibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Sara Aloraibi 👋
+🎓 **Software Engineering Student** at University of Bahrain
+💻 Passionate about **Java, Object-Oriented Programming, and Data Structures**
+🚀 Currently focusing on building robust backend logic & clean algorithms
+📫 How to reach me: [(http://www.linkedin.com/in/sara-aloraibi-708666324?utm_source=share_via&utm_content=profile&utm_medium=member_ios)]
+---
+### 🛠️ Tech Stack & Tools
+- **Languages:** Java
+- **IDEs & Tools:** IntelliJ IDEA, VS Code, Git & GitHub
+- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures, Software Development

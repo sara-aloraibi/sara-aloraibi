@@ -1,10 +1,10 @@
-# Hi there, I'm Sara Aloraibi 👋
-🎓 **Software Engineering Student** at University of Bahrain
-💻 Passionate about **Java, Object-Oriented Programming, and Data Structures**
-🚀 Currently focusing on building robust backend logic & clean algorithms
-📫 How to reach me: [(http://www.linkedin.com/in/sara-aloraibi-708666324?utm_source=share_via&utm_content=profile&utm_medium=member_ios)]
+# Sara Aloraibi
+Software Engineering student at the University of Bahrain focusing on Java development, OOP principles, and data structures. Currently working on practical software engineering projects and strengthening core programming fundamentals.
 ---
-### 🛠️ Tech Stack & Tools
+### Tech & Tools
 - **Languages:** Java
-- **IDEs & Tools:** IntelliJ IDEA, VS Code, Git & GitHub
-- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures, Software Development
+- **Tools & IDEs:** IntelliJ IDEA, Git, GitHub, VS Code
+- **Focus Areas:** Object-Oriented Programming (OOP), Data Structures
+---
+### Connect
+- **LinkedIn:** [Your LinkedIn Profile Link]
